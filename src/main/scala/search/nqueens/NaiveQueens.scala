@@ -21,6 +21,5 @@ object NaiveQueens {
       }
     }
 
-    placeQueens(n)
   }
 }
